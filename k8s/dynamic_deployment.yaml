@@ -22,7 +22,7 @@ spec:
         - containerPort: 8080
         env:
         - name: PRESENTER
-          value: Add your name
+          value: Christian Baumann
         - name: ENVIRONMENT
           value: Google Cloud Platform
         - name: STATIC
